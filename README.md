@@ -13,4 +13,4 @@ Usage:
 
 ## License
 
-[GNU v3.0](LICENSE.md)
+[GNU v3.0](LICENSE)
